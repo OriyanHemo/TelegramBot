@@ -17,7 +17,7 @@ This project is a simple Telegram bot that interacts with users by calculating a
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/OriyanHemo/TelegramBot
-    cd https://github.com/OriyanHemo/TelegramBot
+    cd TelegramBot
     ```
 
 2. **Install Dependencies**:
