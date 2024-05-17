@@ -49,7 +49,8 @@ To run the docker, execute the following command:
 - sudo docker run my_telegram_bot
 ```
 ### Video Demonstration
-[![Watch the video]()
+[![Watch the video][Screencast from 2024-05-17 17-10-26.webm](https://github.com/OriyanHemo/TelegramBot/assets/121008849/acfd3d2d-3c11-4bc3-88f4-cdfae8fee7b8)
+()
 
 ### Resources
 [How to Build a Telegram Bot: A Beginner's Step-by-Step Guide](https://tjtanjin.medium.com/how-to-build-a-telegram-bot-a-beginners-step-by-step-guide-c671ce027c55)
