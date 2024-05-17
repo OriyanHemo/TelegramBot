@@ -25,7 +25,7 @@ This project is a simple Telegram bot that interacts with users by calculating a
     pip install -r requirements.txt
     ```
 3. **Set Up Environment Variables**:
-    Create a `.env` file and add your Telegram Bot API Token, Telegram Bot Name, Telegram App ID, Telegram App Hash, Telethon session
+    Create a `.env` file and add your Telegram Bot API Token, Telegram Bot Name(@NSO145Bot), Telegram App ID, Telegram App Hash, Telethon session
 
 
 ### Running the Bot
@@ -49,8 +49,8 @@ To run the docker, execute the following command:
 - sudo docker run my_telegram_bot
 ```
 ### Video Demonstration
-[![Watch the video][Screencast from 2024-05-17 17-10-26.webm](https://github.com/OriyanHemo/TelegramBot/assets/121008849/acfd3d2d-3c11-4bc3-88f4-cdfae8fee7b8)
-()
+[Screencast from 2024-05-17 17-10-26.webm](https://github.com/OriyanHemo/TelegramBot/assets/121008849/c08d1bbe-1256-4770-b6fd-2bad3ff94ae4)
+
 
 ### Resources
 [How to Build a Telegram Bot: A Beginner's Step-by-Step Guide](https://tjtanjin.medium.com/how-to-build-a-telegram-bot-a-beginners-step-by-step-guide-c671ce027c55)
