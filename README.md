@@ -25,7 +25,7 @@ This project is a simple Telegram bot that interacts with users by calculating a
     pip install -r requirements.txt
     ```
 3. **Set Up Environment Variables**:
-    Create a `.env` file and add your Telegram Bot API Token, Telegram Bot Name(@NSO145Bot), Telegram App ID, Telegram App Hash, Telethon session
+    Create a `.env` file and add your Telegram Bot API Token(6970268054:AAG-nYrs8VwwOE8Fv6mGbZNIiRQVIpEhRd4), Telegram Bot Name(@NSO145Bot), Telegram App ID, Telegram App Hash, Telethon session
 
 
 ### Running the Bot
