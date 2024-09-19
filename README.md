@@ -52,18 +52,4 @@ To run the docker, execute the following command:
 [Screencast from 2024-05-17 17-10-26.webm](https://github.com/OriyanHemo/TelegramBot/assets/121008849/c08d1bbe-1256-4770-b6fd-2bad3ff94ae4)
 
 
-### Resources
-[How to Build a Telegram Bot: A Beginner's Step-by-Step Guide](https://tjtanjin.medium.com/how-to-build-a-telegram-bot-a-beginners-step-by-step-guide-c671ce027c55)
-
-[Telegram File Handling Documentation](https://docs.python-telegram-bot.org/en/v13.1/telegram.file.html)
-
-[Receiving Files in Telegram Bot](https://grammy.dev/guide/files#receiving-files)
-
-[Python MD5 Hashing Example](https://mkyong.com/python/python-md5-hashing-example/)
-
-[How to Dockerize a Telegram Bot: A Step-by-Step Guide](https://tjtanjin.medium.com/how-to-dockerize-a-telegram-bot-a-step-by-step-guide-b14bc427f5dc)
-
-[Creating Unit Tests for a Python Telegram Bot](https://stackoverflow.com/questions/63623930/how-to-create-unit-test-for-a-python-telegram-bot)
-
-[Integration Tests for a Telegram Bot](https://dev.to/blueset/how-to-write-integration-tests-for-a-telegram-bot-4c0e)
 
